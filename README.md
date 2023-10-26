@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
-- 🌱 I’m currently learning **Python, SQL & Exploring the field of Data**
+- 🌱 I’m currently working with **Python, SQL & Exploring the field of Data**
 
 - 📫 How to reach me **aseemsarvapriya@gmail.com**
 
