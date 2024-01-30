@@ -1,6 +1,6 @@
 ![MasterHead]( https://codilime.com/static/7150aa1f015beb5165e9ee4640851ecc/header-data-science-vs-data-analytics.png)
 <h1 align="center">Hi 👋, I'm Aseem Sarvapriya</h1>
-<h3 align="center">A budding and passionate Data Analyst</h3>
+<h3 align="center">A budding and passionate Analytics guy</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
